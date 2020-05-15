@@ -1,3 +1,1 @@
-# SQL
-
-#My schema.sql and query.sql are in my EmployeeSQL file
+#My schema.sql and query.sql are in the EmployeeSQL file
