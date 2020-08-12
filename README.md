@@ -22,4 +22,4 @@ Import the SQL database into Pandas
 - Created a histogram to visualize the most common salary ranges for employees.
 - Created a bar chart of average salary by title.
 
-Tools used: ERD, Postgres, Pandas, Matplotlib, Numpy, Jupyter notebook.
+Tools and Library used: ERD, Postgres, Pandas, Matplotlib, Numpy, seaborn, sqlalchemy, Jupyter notebook.
